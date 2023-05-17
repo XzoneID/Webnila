@@ -3,23 +3,25 @@
   background-color: #ff797946;
 }
 
-#galery {
-  background-color: #ff797946;
+#Visi {
+  background-color: #ffffff;
 }
 
 #about {
   background-color: #ff797946;
 }
 
+#komunitas {
+  background-color: #ffffff;
+}
+
+#galery {
+  background-color: #ff797946;
+}
+
 section {
   scroll-margin-top: 4rem;
 }
-
 html {
   overflow-x: hidden;
-}
-
-* { 
-  user-select: none; /* Non-prefixed version, currently supported by Chrome, Opera and Firefox */
- pointer-events: ;
 }
