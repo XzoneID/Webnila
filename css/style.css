@@ -1,0 +1,25 @@
+.jumbotron {
+  padding-top: 4rem;
+  background-color: #ff797946;
+}
+
+#galery {
+  background-color: #ff797946;
+}
+
+#about {
+  background-color: #ff797946;
+}
+
+section {
+  scroll-margin-top: 4rem;
+}
+
+html {
+  overflow-x: hidden;
+}
+
+* { 
+  user-select: none; /* Non-prefixed version, currently supported by Chrome, Opera and Firefox */
+ pointer-events: ;
+}
